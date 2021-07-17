@@ -1,0 +1,1 @@
+import rootReducer from "./reducers";和import rootReducer from "./reducers/index";都可以引入index.js文件。
